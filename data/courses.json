@@ -1,0 +1,251 @@
+[
+    {
+      "_id": "0282e0e58a5c",
+      "others_info": {
+        "duration": 50,
+        "total_quiz": 10,
+        "Price": 20
+      },
+      "category_id": "01",
+      "rating": 4.7, 
+	  "level": "beginner",
+      "enrolled_students": 488,
+      "title": "Python programming for beginners",
+      "author": {
+        "name": "Jimmy Dane",
+        "about": "Programming instructor",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "Python programming for new programmers. It is a beginner level course. Designed for 9-12 years old kids.",
+	  "course_details": {
+		  "chapter_one":"Introduction: What is programming?",
+		  "chapter_two":"Veriables, data type and memory",
+		  "chapter_three":"Have fun with loops",
+		  "chapter_four":"Array and functions",
+		  "chapter_five":"Mini project one",
+		  "chapter_six":"Mini project two"
+	  }
+	  
+    },
+	{
+      "_id": "0242e0o58j5d",
+      "others_info": {
+        "duration": 50,
+        "total_quiz": 10,
+        "Price": 20
+      },
+      "category_id": "01",
+      "rating": 4.5, 
+	  "level": "beginner",
+      "enrolled_students": 430,
+      "title": "PHP programming for beginners",
+      "author": {
+        "name": "Jimmy Dane",
+        "about": "Programming instructor",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "Php programming for new programmers. It is a beginner level course. Designed for 9-12 years old kids.",
+	  "course_details": {
+		  "chapter_one":"Introduction: What is programming?",
+		  "chapter_two":"Veriables, data type, basic syntax ",
+		  "chapter_three":"Different type of loops",
+		  "chapter_four":"Array and functions",
+		  "chapter_five":"Project with operatior",
+		  "chapter_six":"Mini project one"
+	  }
+	  
+    },
+	{
+      "_id": "0682h0e58v5p",
+      "others_info": {
+        "duration": 60,
+        "total_quiz": 12,
+        "Price": 28
+      },
+      "category_id": "02",
+      "rating": 5.0, 
+	  "level": "beginner and mid-level",
+      "enrolled_students": 608,
+      "title": "HTML for All",
+      "author": {
+        "name": "Adam moss",
+        "about": "Web designer",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "HTML course for beginners and intermediate level students. Any one can join, no pre-requisite course needed.",
+	  "course_details": {
+		  "chapter_one":"Introduction: Hello world with html",
+		  "chapter_two":"Box model in html",
+		  "chapter_three":"All useful tags",
+		  "chapter_four":"Basic htlm 5",
+		  "chapter_five":"Web page structure",
+		  "chapter_six":"Mini project one",
+		  "chapter_seven":"Mini project two"		  
+	  }
+	  
+    },
+	{
+      "_id": "0183e0e08a5y",
+      "others_info": {
+        "duration": 60,
+        "total_quiz": 12,
+        "Price": 30
+      },
+      "category_id": "02",
+      "rating": 4.8, 
+	  "level": "beginner and mid-level",
+      "enrolled_students": 380,
+      "title": "CSS crash course for all",
+      "author": {
+        "name": "Adam moss",
+        "about": "Web designer",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "Modern css course for beginners and intermediate level students. Any one can join, no pre-requisite course needed.",
+	  "course_details": {
+		  "chapter_one":"Introduction: web design and css",
+		  "chapter_two":"syntax, property, attribute and value",
+		  "chapter_three":"shape with colors and shades",
+		  "chapter_four":"css shadow property",
+		  "chapter_five":"Animation and fun",
+		  "chapter_six":"Responsive design layout",
+		  "chapter_seven":"Mini project one"
+	  }
+	  
+    },
+	{
+      "_id": "0252r0e08s5z",
+      "others_info": {
+        "duration": 100,
+        "total_quiz": 20,
+        "Price": 35
+      },
+      "category_id": "03",
+      "rating": 4.9, 
+	  "level": "Mid-level",
+      "enrolled_students": 510,
+      "title": "Career with MERN stack",
+      "author": {
+        "name": "Anna rosy",
+        "about": "Full stack developer",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "MERN stack development with modern technonogy. It is a mid-level level course. HTML, php, javascript are pre-requisite for this course.",
+	  "course_details": {
+		  "chapter_one":"Introduction: Hello World with javascript",
+		  "chapter_two":"Problem solving wi JS",
+		  "chapter_three":"MOdern css frameworks",
+		  "chapter_four":"REACT Introduction",
+		  "chapter_five":"Single and multi page application",
+		  "chapter_six":"Mini project one",
+		  "chapter_seven":"Server and express",
+		  "chapter_eight":"MongoDB Introduction",
+		  "chapter_nine":"Mini project two",
+		  "chapter_ten":"Final project" 
+	  }
+	  
+    },
+	{
+      "_id": "0782u0v50a9c",
+      "others_info": {
+        "duration": 100,
+        "total_quiz": 20,
+        "Price": 35
+      },
+      "category_id": "04",
+      "rating": 5.0, 
+	  "level": "Mid-level",
+      "enrolled_students": 448,
+      "title": "Learn Android with joe",
+      "author": {
+        "name": "Joe gill",
+        "about": "Programming instructor",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "Android development with modern technonogy. It is a mid-level level course. development with modern technonogy. It is a mid-level level course. HTML, php, javascript are pre-requisite for this course..",
+	  "course_details": {
+		   "chapter_one":"Introduction: Android studio",
+		  "chapter_two":"Screen orientation",
+		  "chapter_three":"textview in android",
+		  "chapter_four":"Mini project one",
+		  "chapter_five":"Color, margin, padding",
+		  "chapter_six":"Button and listenrs",
+		  "chapter_seven":"Mini project two",
+		  "chapter_eight":"Final project"
+	  }  
+    },
+	{
+      "_id": "0272f0e68w5c",
+      "others_info": {
+        "duration": 100,
+        "total_quiz": 15,
+        "Price": 40
+      },
+      "category_id": "05",
+      "rating": 4.8, 
+	  "level": "mid-level",
+      "enrolled_students": 450,
+      "title": "Game development for All",
+      "author": {
+        "name": "John Doe",
+        "about": "Programming instructor",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": " Game development is very popolar now a days. It is a beginner to mid-level course.development with modern technonogy. It is a mid-level level course. HTML, php, javascript are pre-requisite for this course.",
+	  "course_details": {
+		  "chapter_one":"Introduction: Game development with unity",
+		  "chapter_two":"Unity3D Layout and Different Views",
+		  "chapter_three":"SCRIPTING in UNITY3D",
+		  "chapter_four":"Mini project one",
+		  "chapter_five":"C++ fundamentals",
+		  "chapter_six":"oop concept for game",
+		  "chapter_seven":"Mini project two",
+		  "chapter_eight":"Final project"
+	    }
+    },
+	{
+      "_id": "0292e3et8a4u",
+      "others_info": {
+        "duration": 80,
+        "total_quiz": 10,
+        "Price": 30
+      },
+      "category_id": "06",
+      "rating": 5.0, 
+	  "level": "beginner",
+      "enrolled_students": 280,
+      "title": "Machine learning for beginners",
+      "author": {
+        "name": "Andrew jonas",
+        "about": "Programming instructor",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "description": "Machine learning for new programmers. It is a beginner level course. Designed for 9-12 years old kids.",
+	  "course_details": {
+		  "chapter_one":"Introduction: Game development with unity",
+		  "chapter_two":"Python Sets, Dictionaries and Tuples",
+		  "chapter_three":"Numpy and Inbuilt Functions",
+		  "chapter_four":"Mini project one",
+		  "chapter_five":"Pandas-Reading JSON,Reading HTML, Read PICKLE",
+		  "chapter_six":"Distplot, Joinplot, Pairplot",
+		  "chapter_seven":"Mini project two",
+		  "chapter_eight":"Final project"
+	    }  
+    }
+]

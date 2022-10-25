@@ -18,5 +18,5 @@ app.get('/courses/:id', (req, res) =>{
 });
 
 app.listen(port, ()=>{
-    console.log('we changed something')
+    console.log('node modules removed')
 })

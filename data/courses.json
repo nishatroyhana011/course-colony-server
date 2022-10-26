@@ -164,7 +164,7 @@
       },
       "category_id": "04",
       "rating": 5.0, 
-	  "level": "Mid-level",
+	   "level": "Mid-level",
       "enrolled_students": 448,
       "title": "Learn Android with joe",
       "author": {
@@ -174,7 +174,7 @@
       },
       "thumbnail_url": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "description": "Android development with modern technonogy. It is a mid-level level course. development with modern technonogy. It is a mid-level level course. HTML, php, javascript are pre-requisite for this course..",
+      "description": "Android development with modern technonogy. It is a mid-level level course. HTML, php, javascript are pre-requisite for this course.",
 	  "course_details": {
 		   "chapter_one":"Introduction: Android studio",
 		  "chapter_two":"Screen orientation",
@@ -195,7 +195,7 @@
       },
       "category_id": "05",
       "rating": 4.8, 
-	  "level": "mid-level",
+	    "level": "mid-level",
       "enrolled_students": 450,
       "title": "Game development for All",
       "author": {
@@ -205,8 +205,8 @@
       },
       "thumbnail_url": "https://cdn.pixabay.com/photo/2015/03/22/17/58/brick-685011_960_720.jpg",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "description": " Game development is very popolar now a days. It is a beginner to mid-level course.development with modern technonogy. It is a mid-level level course. HTML, php, javascript are pre-requisite for this course.",
-	  "course_details": {
+      "description": " Game development is very popolar now a days. It is a beginner to mid-level course. HTML, php, javascript are pre-requisite for this course.",
+	    "course_details": {
 		  "chapter_one":"Introduction: Game development with unity",
 		  "chapter_two":"Unity3D Layout and Different Views",
 		  "chapter_three":"SCRIPTING in UNITY3D",

@@ -13,10 +13,15 @@ app.get('/courses', (req, res) =>{
 
 app.get('/courses/:id', (req, res) =>{
     const id = req.params.id;
-    const selectedCourse = news.find(n=> n._id === id)
+    const selectedCourse = courses.find(n=> n._id === id)
+    res.send(selectedCourse);
+});
+app.get('/checkout/:id', (req, res) =>{
+    const id = req.params.id;
+    const selectedCourse = courses.find(n=> n._id === id)
     res.send(selectedCourse);
 });
 
 app.listen(port, ()=>{
-    console.log('node modules removed')
+    console.log('running')
 })
